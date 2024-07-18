@@ -1,2 +1,3 @@
 # max-msp-jitter
-all things Max
+
+- Central repository for all things I'm doing in Max
